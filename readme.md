@@ -50,7 +50,7 @@ I’ve built and deployed systems spanning from **AI-powered web apps** to **mic
 A **resume-job matching tool** using RAG and LLMs to analyze resumes vs. job descriptions for ATS optimization.  
 - Built with `React + Tailwind + FastAPI + OpenAI GPT-4o-mini`  
 - Dockerized microservices, EC2 hosted, integrated skill matching & scoring  
-🖥️ [Live Demo](http://3.27.34.4/upload)
+🖥️ [Live Demo](https://jobscan.duckdns.org/)
 
 #### 📚 [iPaper](https://github.com/thesaugat/iPaper)
 An **AI-powered research paper summarizer** that groups academic papers by topic for easier exploration.  
@@ -85,7 +85,7 @@ The #1 education app in Nepal, now being rebuilt as a **community-driven learnin
   <a href="https://github.com/thesaugat" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="mailto:saugattimilsina@gmail.com">
+  <a href="mailto:thesaugatt@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
