@@ -24,7 +24,7 @@ I’ve built and deployed systems spanning from **AI-powered web apps** to **mic
 - 🛠️ Ex–Senior Android + Full Stack Developer @ Virtual Technology (5+ years)  
 - 💬 Ask me about **LangChain, Airflow, FastAPI, React, Flutter, or AWS**  
 - 🌍 Based in Wollongong, NSW  
-- ⚡ Fun fact: I built **PU Assist**, once the #1 education app in Nepal 🇳🇵
+- ⚡ Fun fact: I built **PU Assist**, once the <a href="https://www.facebook.com/share/p/1CzhwJQPTB/" target="_blank"> #1 education app in Nepal 🇳🇵 </a>
 
 ---
 
